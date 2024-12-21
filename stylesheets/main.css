@@ -150,6 +150,7 @@
 }
 .icon-top-draw:before {
 	content: "\e603"
+
 }
 .icon-home-ico:before {
 	content: "\e601"
@@ -170,7 +171,16 @@
 	font-family: 'Herr Von Muellerhoff', cursive
 }
 body {
-	color: #515151
+	color: #515151;
+}
+
+.test219{
+	color: white;
+}
+.testUpToDate{
+	font-style: italic;
+	color: #515151;
+	font-size: 16px;
 }
 body p {
 	font-size: 15px;
@@ -234,6 +244,9 @@ color:#515151
 }
 :-ms-input-placeholder {
 color:#515151
+}
+html{
+	overflow: auto;
 }
 img {
 	-moz-user-select: none;
@@ -395,7 +408,7 @@ input:focus, textarea:focus {
 	transition: all .5s ease
 }
 .btn-gold {
-	background-color: transparent
+	background-color: transparent;
 }
 .btn-gold:active, .btn-gold:focus {
 	background: #c59d5f
@@ -568,6 +581,7 @@ input:focus, textarea:focus {
 	background-color: #fff;
 	position: relative
 }
+  
 .go-down {
 	position: absolute;
 	bottom: 60px;
@@ -590,6 +604,14 @@ input:focus, textarea:focus {
 	color: #e8e8e8;
 	font-size: 40px
 }
+
+
+
+body::-webkit-scrollbar {
+    display: none; /* Verbergt de scrollbar in Chrome, Safari en Opera */
+}
+
+
 .signature {
 	font-size: 50px;
 	text-transform: capitalize;
@@ -602,7 +624,7 @@ input:focus, textarea:focus {
 	background-image: url(../img/background/404.jpg)
 }
 .background1 {
-	background-image: url(../img/banner/about.jpg)
+	background-image: url(../videos/Shoot-2/mewsim00026.jpg)
 }
 .background2 {
 	background-image: url(../img/banner/blog.jpg)
@@ -623,7 +645,7 @@ input:focus, textarea:focus {
 	background-image: url(../img/background/coming.jpg)
 }
 .background8 {
-	background-image: url(../img/banner/contact.jpg)
+	background-image: url(../videos/Shoot-2/mewsim00044.jpg)
 }
 .background9 {
 	background-image: url(../img/banner/services.jpg)
@@ -632,13 +654,13 @@ input:focus, textarea:focus {
 	background-image: url(../img/background/bg_6.jpg)
 }
 .background11 {
-	background-image: url(../img/banner/launch_banner.jpg)
+	background-image: url(../videos/Shoot-1/mewsim-v100056.jpg)
 }
 .background12 {
-	background-image: url(../img/banner/dinner_banner.jpg)
+	background-image: url(../videos/Shoot-2/mewsim00064.jpg)
 }
 .background13 {
-	background-image: url(../img/banner/desert_banner.jpg)
+	background-image: url(../videos/Shoot-2/mewsim00075.jpg)
 }
 .background14 {
 	background-image: url(../img/background/bg_1.jpg)
@@ -719,13 +741,13 @@ input:focus, textarea:focus {
 	background-image: url(../img/background/bg_19.jpg)
 }
 .background41 {
-	background-image: url(../img/banner/menu.jpg)
+	background-image: url(../videos/Shoot-2/mewsim00067.jpg)
 }
 .background42 {
-	background-image: url(../img/banner/menu_single.jpg)
+	background-image: url(../videos/Shoot-1/mewsim-v100014.jpg)
 }
 .background43 {
-	background-image: url(../img/banner/breakfast_banner.jpg)
+	background-image: url(../videos/Shoot-2/mewsim00021.jpg)
 }
 .background44 {
 	background-image: url(../img/banner/team.jpg)
@@ -1579,7 +1601,8 @@ body.stretched #header.full-header #main-menu ul li.mega-menu .mega-menu-content
 }
 .fluid-container {
 	margin-left: auto;
-	margin-right: auto
+	margin-right: auto;
+	color: white;
 }
 .row.no-gutter {
 	margin-left: 0;
@@ -1603,7 +1626,7 @@ body.stretched #header.full-header #main-menu ul li.mega-menu .mega-menu-content
 }
 .welcome-block h1 {
 	margin-top: 40px;
-	color: #262626
+	color: #515151;
 }
 .welcome-block p {
 	font-style: italic;
@@ -2038,7 +2061,7 @@ span.welcome {
 	display: inline-block;
 	position: relative;
 	font-size: 18px;
-	color: #262626
+	color: white;
 }
 .dark span.welcome {
 	color: #fff
@@ -2530,6 +2553,24 @@ span.welcome:after {
 	float: none
 
 }
+
+/* Standaardstijl voor de lijn */
+.custom-line {
+	border: none;
+	height: 100px; /* Dikte van de lijn */
+	background-color: #007BFF !important; /* Kleur van de lijn */
+	margin: 20px 0; /* Ruimte boven en onder de lijn */
+	width: 80%; /* Breedte van de lijn */
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 5px; /* Maakt de randen rond */
+  }
+  
+
+
+.menu-center{
+	height: 100px;
+}
 #header.header-bottom #shop_cart.shop_cart_open .shop_cart_content {
 	margin-top: 25px
 }
@@ -2566,7 +2607,7 @@ span.welcome:after {
 	height: auto
 }
 .art-3 .icon-intro {
-	color: #262626
+	color: white;
 }
 .chef-message .container, .chef-style-2 .container {
 	position: relative
@@ -3697,7 +3738,7 @@ a.comment-reply-link:hover {
 	letter-spacing: 0
 }
 .login-fade span.welcome, .login-full span.welcome {
-	color: #fff
+	color: #515151;
 }
 .login-fade .form-control, .login-full .form-control {
 	margin-bottom: 10px

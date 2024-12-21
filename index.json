@@ -1,0 +1,149 @@
+{
+  "lunch_breakfast": [
+    {
+      "name": "Menemen",
+      "description": "Een pittige Turkse roerei gemaakt met tomaten, paprika en specerijen."
+    },
+    {
+      "name": "Sucuklu Yumurta",
+      "description": "Gebakken eieren met Turkse sucuk (vleesworst) en tomaten."
+    },
+    {
+      "name": "Sigara Böreği",
+      "description": "Fritters gevuld met kaas en kruiden, vaak geserveerd als ontbijt."
+    },
+    {
+      "name": "Kahvaltı Tabağı",
+      "description": "Een traditioneel Turks ontbijt met verschillende kazen, olijven, brood, tomaten, komkommer en worst."
+    },
+    {
+      "name": "Lahmacun",
+      "description": "Een dunne, knapperige pizza met gehakt, tomaat, ui en kruiden."
+    },
+    {
+      "name": "Peynirli Pide",
+      "description": "Een brood gevuld met Turkse kaas en kruiden, vaak gegeten bij het ontbijt."
+    },
+    {
+      "name": "Bal-Kaymak",
+      "description": "Vers brood met honing en room."
+    },
+    {
+      "name": "Kumpir",
+      "description": "Een grote aardappel gevuld met boter, kaas, groenten en ham."
+    },
+    {
+      "name": "Menemen (zonder eieren)",
+      "description": "Tomaten en paprika's gekookt zonder eieren, een hartige optie voor ontbijt."
+    },
+    {
+      "name": "Ayran",
+      "description": "Een Turkse drinkyoghurt."
+    }
+  ],
+  "dinner": [
+    {
+      "name": "Adana Kebab",
+      "image": "img/menu/dinner_1.jpg",
+      "price": "€15,00",
+      "description": "Gegrild lamsvlees kebab met specerijen en pitabrood."
+  },
+  {
+      "name": "Iskender Kebab",
+      "image": "img/menu/dinner_2.jpg",
+      "price": "€18,00",
+      "description": "Gebroken kebab geserveerd op pita met tomatensaus en yoghurt."
+  },
+  {
+      "name": "Tavuk Shish",
+      "image": "img/menu/dinner_3.jpg",
+      "price": "€20,00",
+      "description": "Gegrilde kipspies met groenten."
+  },
+  {
+      "name": "Kuzu Tandir",
+      "image": "img/menu/dinner_4.jpg",
+      "price": "€22,00",
+      "description": "Langzaam gegaard lamsschenkel met kruiden en groenten."
+  },
+  {
+      "name": "Lahmacun",
+      "image": "img/menu/dinner_5.jpg",
+      "price": "€14,00",
+      "description": "Een Turkse pizza met gehakt en groenten."
+  },
+  {
+      "name": "Köfte",
+      "image": "img/menu/dinner_6.jpg",
+      "price": "€17,00",
+      "description": "Gehaktballetjes gekruid met kruiden en geserveerd met salade."
+  },
+  {
+      "name": "Pide",
+      "image": "img/menu/dinner_7.jpg",
+      "price": "€19,00",
+      "description": "Een Turks brood met diverse toppings zoals kaas, ei en kruiden."
+  },
+  {
+      "name": "Dolma",
+      "image": "img/menu/dinner_8.jpg",
+      "price": "€21,00",
+      "description": "Gevulde druivenbladeren met rijst, kruiden en kruiden."
+  },
+  {
+      "name": "Saray Kebab",
+      "image": "img/menu/dinner_9.jpg",
+      "price": "€23,00",
+      "description": "Gebakken lamsvlees met aardappelen, wortel en groenten."
+  },
+  {
+      "name": "Tavuk Sote",
+      "image": "img/menu/dinner_10.jpg",
+      "price": "€25,00",
+      "description": "Gebakken kip met groenten en kruiden."
+  }
+
+  ],
+  "desserts": [
+    {
+      "name": "Baklava",
+      "description": "Een bladerdeeg met gehakte noten en siroop."
+    },
+    {
+      "name": "Revani",
+      "description": "Een zoete taart gemaakt van griesmeel, gegarneerd met siroop."
+    },
+    {
+      "name": "Künefe",
+      "description": "Een Turkse dessert gemaakt van kaas en baklava-deeg."
+    },
+    {
+      "name": "Sütlaç",
+      "description": "Een zoete rijstepap met kaneel en suiker."
+    },
+    {
+      "name": "Lokum (Turkish Delight)",
+      "description": "Gelatineblokjes gevuld met noten en bedekt met poedersuiker."
+    },
+    {
+      "name": "Kazandibi",
+      "description": "Een gebakken melkpudding."
+    },
+    {
+      "name": "Tulumba Tatlısı",
+      "description": "Gefrituurde deegstukjes in suikersiroop."
+    },
+    {
+      "name": "Hurma Tatlısı",
+      "description": "Dadel-gebak gedompeld in siroop."
+    },
+    {
+      "name": "Güllac",
+      "description": "Een dessert gemaakt van melk, walnoten en rozenblaadjes."
+    },
+    {
+      "name": "Kabak Tatlısı",
+      "description": "Geroosterde pompoen met walnoten en siroop."
+    }
+  ]
+}
